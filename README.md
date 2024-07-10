@@ -8,3 +8,7 @@ Sofern die Hochschule nicht bis zum 11.7.2024 wieder am Netz ist, werden hier Un
 
 Wenn Sie über Updates informiert werden möchten, erfassen Sie hier bitte eine Mailadresse (nicht fra-uas.de)
 https://forms.gle/mjj9hVSU6WLo7zeH9
+
+
+## Link zu Markdown
+https://www.markdownguide.org/basic-syntax/
